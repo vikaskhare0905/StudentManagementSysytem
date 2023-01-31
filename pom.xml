@@ -8,6 +8,8 @@
 		<version>3.0.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
                 <!-- Changes by DEVUSA -->
+                
+                <!-- Changes by DEVIND -->
 	</parent>
 	<groupId>com.BikkadIT</groupId>
 	<artifactId>SpringbootProjectUsingWebsite-1</artifactId>
